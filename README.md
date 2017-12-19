@@ -1,2 +1,2 @@
 # RockPaperScissor
-Simple and Easy RockPaperScissor Game APP
+Simple and Easy RockPaperScissor  APP
